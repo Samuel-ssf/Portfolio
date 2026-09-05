@@ -5,6 +5,8 @@
 Este repositório reúne meu portfólio pessoal: uma apresentação da minha trajetória, das tecnologias que venho desenvolvendo e de soluções que idealizei para problemas do dia a dia. O site foi construído como uma página estática, com foco em leitura, responsividade e experiência visual.
 
 <p align="center">
+  <a href="https://github.com/Samuel-ssf/">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/samuel-ssf/">LinkedIn</a> ·
   <a href="./index.html">Ver portfólio</a> ·
   <a href="./curriculo.html">Ver currículo</a> ·
   <a href="./Curriculo-Samuel.pdf">Baixar currículo em PDF</a>
